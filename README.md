@@ -7,4 +7,4 @@ Note: For this case study, only the trips to and from the airport are being cons
 •	Find the time slots when the highest gap exists
 •	Find the types of requests (city-airport or airport-city) for which the gap is the most severe in the identified time slots
 
-Visualization Solution Tableau Public Link: https://public.tableau.com/app/profile/udit.parekh/viz/UberDemandSupply/Dashboard1
+Visualization Solution Tableau Public Link: https://public.tableau.com/app/profile/huzaifa.bandukwala/viz/UberDemandSupply_17383507225060/UberDemandSupplyRatioCaseStudy
